@@ -1,0 +1,20 @@
+{
+  "name": "meraki-api-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "meraki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
